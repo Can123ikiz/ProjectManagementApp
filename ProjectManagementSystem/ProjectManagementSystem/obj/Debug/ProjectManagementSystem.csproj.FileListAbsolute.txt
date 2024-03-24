@@ -1,0 +1,50 @@
+C:\Users\can12\source\repos\ProjectManagementSystem\ProjectManagementSystem\bin\Debug\ProjectManagementSystem.exe.config
+C:\Users\can12\source\repos\ProjectManagementSystem\ProjectManagementSystem\bin\Debug\ProjectManagementSystem.exe
+C:\Users\can12\source\repos\ProjectManagementSystem\ProjectManagementSystem\bin\Debug\ProjectManagementSystem.pdb
+C:\Users\can12\source\repos\ProjectManagementSystem\ProjectManagementSystem\bin\Debug\EntityFramework.dll
+C:\Users\can12\source\repos\ProjectManagementSystem\ProjectManagementSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\can12\source\repos\ProjectManagementSystem\ProjectManagementSystem\bin\Debug\EntityFramework.xml
+C:\Users\can12\source\repos\ProjectManagementSystem\ProjectManagementSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\can12\source\repos\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.csproj.AssemblyReference.cache
+C:\Users\can12\source\repos\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\can12\source\repos\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Form1.resources
+C:\Users\can12\source\repos\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Properties.Resources.resources
+C:\Users\can12\source\repos\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.csproj.GenerateResource.cache
+C:\Users\can12\source\repos\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\can12\source\repos\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.csproj.CopyComplete
+C:\Users\can12\source\repos\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.exe
+C:\Users\can12\source\repos\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.pdb
+C:\Users\can12\source\repos\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Form2.resources
+C:\Users\can12\source\repos\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.addEmployee.resources
+C:\Users\can12\source\repos\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.addProject.resources
+C:\Users\can12\source\repos\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\can12\source\repos\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\can12\source\repos\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.csproj.ResolveComReference.cache
+C:\Users\can12\source\repos\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.PDFreader.resources
+C:\Users\can12\source\repos\ProjectManagementSystem\ProjectManagementSystem\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\can12\source\repos\ProjectManagementSystem\ProjectManagementSystem\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\can12\OneDrive\Masaüstü\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\bin\Debug\ProjectManagementSystem.exe.config
+C:\Users\can12\OneDrive\Masaüstü\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\bin\Debug\ProjectManagementSystem.exe
+C:\Users\can12\OneDrive\Masaüstü\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\bin\Debug\ProjectManagementSystem.pdb
+C:\Users\can12\OneDrive\Masaüstü\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\bin\Debug\EntityFramework.dll
+C:\Users\can12\OneDrive\Masaüstü\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\can12\OneDrive\Masaüstü\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\bin\Debug\EntityFramework.xml
+C:\Users\can12\OneDrive\Masaüstü\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\can12\OneDrive\Masaüstü\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\can12\OneDrive\Masaüstü\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\can12\OneDrive\Masaüstü\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.csproj.AssemblyReference.cache
+C:\Users\can12\OneDrive\Masaüstü\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\can12\OneDrive\Masaüstü\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\can12\OneDrive\Masaüstü\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\can12\OneDrive\Masaüstü\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.csproj.ResolveComReference.cache
+C:\Users\can12\OneDrive\Masaüstü\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.addEmployee.resources
+C:\Users\can12\OneDrive\Masaüstü\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.addProject.resources
+C:\Users\can12\OneDrive\Masaüstü\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Form1.resources
+C:\Users\can12\OneDrive\Masaüstü\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Form2.resources
+C:\Users\can12\OneDrive\Masaüstü\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.PDFreader.resources
+C:\Users\can12\OneDrive\Masaüstü\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Properties.Resources.resources
+C:\Users\can12\OneDrive\Masaüstü\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.csproj.GenerateResource.cache
+C:\Users\can12\OneDrive\Masaüstü\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\can12\OneDrive\Masaüstü\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.csproj.CopyComplete
+C:\Users\can12\OneDrive\Masaüstü\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.exe
+C:\Users\can12\OneDrive\Masaüstü\ProjectManagementSystem (1)\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.pdb
